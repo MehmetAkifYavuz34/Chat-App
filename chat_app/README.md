@@ -1,4 +1,1 @@
-# Kütüphaneler
 
-- firebase
-- sass
